@@ -10,10 +10,14 @@ public class Test01 {
     public static void main(String[] args) {
     System.out.println("user");
     int[] i = new int[]{1,2,3,4};
-    int a = 3;
-
-
-}
+        int a = 3;if (a == 0) {
+            if (a==1) {
+                System.out.println(a);
+                System.out.println();
+            }
+        }
+        System.out.println("");
+    }
 
 
 }

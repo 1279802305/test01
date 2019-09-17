@@ -7,16 +7,6 @@ public class User {
     private int age;
     private String phone;
 
-
-    public User() {
-    }
-
-    public User(String name, int age, String phone) {
-        this.name = name;
-        this.age = age;
-        this.phone = phone;
-    }
-
     public String getName() {
         return name;
     }
@@ -40,4 +30,9 @@ public class User {
     public void setPhone(String phone) {
         this.phone = phone;
     }
+
+    public User() {
+    }
+
+
 }

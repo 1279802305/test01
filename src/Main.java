@@ -1,7 +1,7 @@
 import com.test.User;
 
+import java.util.ArrayList;
 import java.util.Date;
-
 
 public class Main {
 
@@ -15,18 +15,12 @@ public class Main {
 
     public static void method() {
         String s = "na";
-        Date ss = new Date();
-        Date date1 = new Date();
-        Thread thread = Thread.currentThread();
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+        int[] a = {1, 3, 5, 6};
+
+        for (int i : a) {
+            System.out.println(i);
         }
-        //region Description
-        System.out.println(thread.getName());
-        //endregion
-        User user = new User();
-        user.setAge(22);
+
+
     }
 }
