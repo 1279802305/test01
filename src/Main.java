@@ -10,6 +10,7 @@ public class Main {
         method();
         System.out.println("budong!");
         System.out.println("gaidong011");
+        System.out.println("bug");
     }
 
     //zheshi 注释
