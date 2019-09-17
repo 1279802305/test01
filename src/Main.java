@@ -12,6 +12,7 @@ public class Main {
         System.out.println("gaidong011");
         //System.out.println("1111");
         System.out.println(2222);
+        System.out.println("bug");
     }
 
     //zheshi 注释
