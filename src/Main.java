@@ -10,6 +10,8 @@ public class Main {
         method();
         System.out.println("budong!");
         System.out.println("gaidong011");
+        //System.out.println("1111");
+        System.out.println(2222);
         System.out.println("bug");
     }
 
