@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hello World!");
         method();
         System.out.println("1111");
+        System.out.println(2222);
     }
 
     //zheshi 注释
