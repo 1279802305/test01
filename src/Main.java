@@ -8,7 +8,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         method();
-         System.out.println("改动！！");
+        System.out.println("budong!");
+        System.out.println("gaidong01");
     }
 
     //zheshi 注释
